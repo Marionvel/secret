@@ -8,7 +8,7 @@ LA REPONSE SECRETE
 
 ## Comment acceder à l'application ?
 
-Via ce lien -> [Mes Formulaires de l'espace](https://secretthp18.herokuapp.com/)
+Via ce lien -> [Mon site de l'espace](https://secretthp18.herokuapp.com/)
 
 ## Explications de l'application
 
